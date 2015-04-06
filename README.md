@@ -70,8 +70,8 @@ inEntityNamed:@"User"
 
 ## More Examples
 
-[![AppNet-Swift](https://raw.githubusercontent.com/hyperoslo/Sync/reamdme-images/Images/APPNET-v5.png)](https://github.com/hyperoslo/Sync/tree/master/Examples/AppNet)
-[![DesignerNews](https://raw.githubusercontent.com/hyperoslo/Sync/reamdme-images/Images/DN-v5.png)](https://github.com/hyperoslo/Sync/tree/master/Examples/DesignerNews)
+[![AppNet-Swift](https://raw.githubusercontent.com/hyperoslo/Sync/reamdme-images/Images/APPNET-v4.png)](https://github.com/hyperoslo/Sync/tree/master/Examples/AppNet)
+[![DesignerNews](https://raw.githubusercontent.com/hyperoslo/Sync/reamdme-images/Images/DN-v4.png)](https://github.com/hyperoslo/Sync/tree/master/Examples/DesignerNews)
 
 ## Getting Started
 
